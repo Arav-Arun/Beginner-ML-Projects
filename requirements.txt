@@ -1,0 +1,8 @@
+jupyterlab>=4.2
+notebook>=7.2
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.4
+tensorflow>=2.16

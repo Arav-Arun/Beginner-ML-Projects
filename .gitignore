@@ -1,0 +1,13 @@
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Generated model files
+*.h5
+*.keras
+*.pkl
